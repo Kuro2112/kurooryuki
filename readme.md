@@ -14,7 +14,6 @@ Not a developer, but improving my scripting skills step by step.
 
 ---
 
-### What I use
 
 ### What I use
 
