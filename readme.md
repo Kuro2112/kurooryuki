@@ -5,7 +5,6 @@ Not a professional developer, but improving my scripting skills step by step.
 
 ---
 
----
 
 ### About
 
