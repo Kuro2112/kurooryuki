@@ -1,7 +1,7 @@
-## Hi, I'm Nguyen Vu
+## AB ME
 
 Learning **Luau** for **Roblox scripting**.  
-Not a professional developer, but improving my scripting skills step by step.
+Not a developer, but improving my scripting skills step by step.
 
 ---
 
@@ -35,7 +35,6 @@ Not a professional developer, but improving my scripting skills step by step.
 ### Learning style
 
 - Read existing code and project structures  
-- Take notes in `.md` files and comments  
 - Use documentation and tools (search, AI) to understand features
 
 ---
