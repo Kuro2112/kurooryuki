@@ -5,10 +5,6 @@ Not a professional developer, but improving my scripting skills step by step.
 
 ---
 
-### Banner
-
-![Luau / Roblox banner](https://via.placeholder.com/1000x250/0f172a/ffffff?text=Learning+Luau+%7C+Luau+%26+Roblox+Scripting)
-
 ---
 
 ### About
@@ -45,8 +41,3 @@ Not a professional developer, but improving my scripting skills step by step.
 
 ---
 
-### GitHub overview
-
-Replace `your-github-username` with your real username:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
