@@ -33,7 +33,7 @@ Not a developer, but improving my scripting skills step by step.
 ---
 
 ### Learning style
-
+- Learning from my friend who is a developer
 - Read existing code and project structures  
 - Use documentation and tools (search, AI) to understand features
 
