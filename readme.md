@@ -24,7 +24,6 @@ Not a developer, but improving my scripting skills step by step.
   <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Editor-Cursor-1F2933?style=for-the-badge&logoColor=white" alt="Cursor" />
 </p>
----
 
 ### Current skills (Luau)
 
